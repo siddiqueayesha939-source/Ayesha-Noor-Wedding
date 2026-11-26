@@ -1,0 +1,14 @@
+// EDIT THIS FILE with your confirmed wedding details.
+// Dates must use DD-MM-YYYY. Times are optional, e.g. "7:00 PM".
+const WEDDING_CONFIG = {
+  familyLine: "TOGETHER WITH OUR FAMILIES",
+  weddingDate: "2027-01-09", // Change this to your Nikah / main wedding date
+  heroDateLabel: "WEDDING CELEBRATIONS · 2027",
+  rsvpWhatsApp: "", // Add your number with country code, e.g. 919876543210
+  events: [
+    { name: "Haldi", date: "", time: "", venue: "", address: "", map: "", note: "A little sunshine, colour & lots of laughter", icon: "☼" },
+    { name: "Mehendi", date: "", time: "", venue: "", address: "", map: "", note: "An evening of music, henna & happy hearts", icon: "❀" },
+    { name: "Nikah", date: "", time: "", venue: "", address: "", map: "", note: "The beginning of our forever, with duas", icon: "☾" },
+    { name: "Walima", date: "", time: "", venue: "", address: "", map: "", note: "A celebration of love & togetherness", icon: "✧" }
+  ]
+};
